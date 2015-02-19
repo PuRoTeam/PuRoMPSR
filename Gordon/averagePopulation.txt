@@ -1,0 +1,5 @@
+********** Average Population **********
+Average Population for Center 1: 1.08936922246359610619
+Average Population for Center 2: 7.95630064080256993809
+Average Population for Center 3: 0.34850723361725279976
+Average Population for Center 4: 21.60582290311658114666

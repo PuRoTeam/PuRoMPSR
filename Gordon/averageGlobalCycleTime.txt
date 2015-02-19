@@ -1,0 +1,5 @@
+********** Average Global CycleTime **********
+Average Global CycleTime for Center 1: 199.1978436009574238715911061686574202017114
+Average Global CycleTime for Center 2: 9.5614965020249920870985307412234527115614
+Average Global CycleTime for Center 3: 9.5614964966705549244037304533282193400125
+Average Global CycleTime for Center 4: 10.0435887572094443399937945516721218225974

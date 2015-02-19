@@ -1,0 +1,5 @@
+********** Global Throughput **********
+Global Throughput for Center 1: 0.15562417463765657803
+Global Throughput for Center 2: 3.24217030183869552154
+Global Throughput for Center 3: 3.24217030365431059372
+Global Throughput for Center 4: 3.08654612901665427908

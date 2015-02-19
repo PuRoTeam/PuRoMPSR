@@ -1,0 +1,7 @@
+********** Throughput **********
+Throughput for Center 1: 0.20177335089096067222
+Throughput for Center 2: 3.23150741361470276177
+Throughput for Center 3: 3.23150741361470276177
+Throughput for Center 4: 3.07639505800188309685
+Throughput for Center 5: 0.04666099503745493966
+Throughput for Center 6: 2.4068606764E-10

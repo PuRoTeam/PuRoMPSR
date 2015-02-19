@@ -1,0 +1,5 @@
+********** Utilization Coefficient **********
+Utilization Coefficient for Center 1: 0.03514094266011600343
+Utilization Coefficient for Center 2: 0.97265109055160861297
+Utilization Coefficient for Center 3: 0.25937362429234484742
+Utilization Coefficient for Center 4: 0.69696202913279294021

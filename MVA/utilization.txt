@@ -1,0 +1,7 @@
+********** Utilization **********
+Utilization for Center 1: 0.04556172439473305502
+Utilization for Center 2: 0.969452224084410828531
+Utilization for Center 3: 0.2585205930891762209416
+Utilization for Center 4: 0.69466985180687682832
+Utilization for Center 5: 0.00007525966941524990
+Utilization for Center 6: 3.8820333E-13

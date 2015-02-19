@@ -1,0 +1,5 @@
+********** Average Global Response Time **********
+Average Global Response Time for Center 1: 192.1978436009574234839111061686574202017114
+Average Global Response Time for Center 2: 7.1074919618284444897585307412234527115614
+Average Global Response Time for Center 3: 9.4540045388223062375437304533282193400125
+Average Global Response Time for Center 4: 3.0435887572094439513637945516721218225974

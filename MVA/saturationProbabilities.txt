@@ -1,0 +1,22 @@
+********** Saturation Probabilities **********
+Coppia scelta: (12, 31)
+Saturation Probability For S(12): 0.23125449833397857729
+Saturation Probability For S(13): 0.16817719250489165312
+Saturation Probability For S(14): 0.11681424220259053487
+Saturation Probability For S(15): 0.07719139458153513511
+Saturation Probability For S(17): 0.02852806860787225340
+Saturation Probability For S(16): 0.04832331985045099184
+Saturation Probability For S(19): 0.00816723877117663412
+Saturation Probability For S(18): 0.01580254995742785367
+Saturation Probability For S(21): 0.00172552929758555075
+Saturation Probability For S(20): 0.00391327968403734805
+Saturation Probability For S(23): 0.00025214638533246501
+Saturation Probability For S(22): 0.00069416125883517426
+Saturation Probability For S(25): 0.00002320072244240258
+Saturation Probability For S(24): 0.00008165493421974453
+Saturation Probability For S(27): 0.00000115513401553286
+Saturation Probability For S(26): 0.00000566445891902025
+Saturation Probability For S(29): 2.320143844533E-8
+Saturation Probability For S(28): 1.8885010818379E-7
+Saturation Probability For S(31): 7.823639783E-11
+Saturation Probability For S(30): 1.90375234802E-9
